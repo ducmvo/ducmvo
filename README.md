@@ -1,4 +1,12 @@
 ### Hi there 👋
+**[EMAIL](mailto:dvo4@seattleu.com) | [GITHUB](https://github.com/pianote/) | [LINKEDIN](https://www.linkedin.com/in/ducmvo/)**
+
+I am a current Computer Science graduate student at Seattle University and well-qualified full stack web developer experienced with a wide range of programming languages and technologies as well as knowledgeable of back-end and front-end development requirements. I am passionate for creating well-designed secured, reliable, and scalable application using architectural best practices. With strong background in Computer Science and Business, I am fascinated with creative ideas and innovative knowledge that bring great values to community and businesses.
+
+---
+
+**Programming Languages:** JavaScript, Java, Python, TypeScript, HTML5/CSS, SQL  
+**Frameworks, Libraries and Tools:** ReactJS/Redux, Django/REST framework, NodeJS/Express, SASS, PostgreSQL, AWS, GraphQL, MySQL, Git
 
 <!--
 **pianote/pianote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
