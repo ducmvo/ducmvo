@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/61364158/133513942-00d3f4b6-630a-4b7c-acff-4fad2c0b85a3.jpg" height="20%"/>
+<img src="https://www.hotwater.com/uploadedImages/hotwater.com/Resources/Advertising_Tools/Company_Logos/AOS_wave_K.png" width="100%"/>
 
 I am a current Computer Science graduate student at Seattle University and well-qualified full stack web developer experienced with a wide range of programming languages and technologies as well as knowledgeable of back-end and front-end development requirements. 
 
