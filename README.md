@@ -12,7 +12,7 @@ I am passionate for creating high performance, secured, reliable, and scalable a
 - ReactJS, NodeJS, AWS, GraphQL, Django, MySQL, SASS, Git, Jira
 - Leadership, Problem-Solving, Project Management, Adaptability, Agile, Scrum, Sprints
 ___
-[<img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" width="30"/>](mailto:dvo4@seattleu.com)  [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/>](https://github.com/ducmvo/)  [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ducmvo/)  [<img src="https://user-images.githubusercontent.com/61364158/155604128-249423e4-0363-4d26-8f52-7224bf128dd2.png" width="30"/>](https://ducmvo.github.io/portfolio/)
+[<img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" width="30"/>](mailto:dvo4@seattleu.com)  [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/>](https://github.com/ducmvo/)  [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ducmvo/)  [<img src="https://user-images.githubusercontent.com/61364158/173126197-b65e814c-9379-45c3-a694-e45bff82b2fc.jpg" height="25"/>](https://ducmvo.github.io/portfolio/)
 
 
 <!--
