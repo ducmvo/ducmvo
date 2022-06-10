@@ -1,5 +1,7 @@
 <a href="#"><img src="https://www.hotwater.com/uploadedImages/hotwater.com/Resources/Advertising_Tools/Company_Logos/AOS_wave_K.png" width="100%"/></a>
-
+<a href="#"><img src="https://user-images.githubusercontent.com/61364158/173124730-7168c51f-169e-4a38-a425-774350c24ef8.jpg" width="100%"/></a>   
+   
+   
 I am a current CS Graduate Student at Seattle University. I am experienced with a wide range of programming languages and technologies as well as knowledgeable of Full-Stack development requirements. 
 
 I am passionate for creating high performance, secured, reliable, and scalable application using architectural best practices. With strong background in Computer Science and Business, I am fascinated with creative ideas and innovative knowledge that bring great values to community and businesses.
