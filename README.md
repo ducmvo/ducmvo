@@ -1,11 +1,3 @@
-<a href="#"><img src="https://user-images.githubusercontent.com/61364158/212520741-8522f729-b085-4e70-965c-eb10f9ce39bc.png" width="100%"/></a>   
-      
-		
-I am a current MSCS Student at Seattle University.  
-
-I am passionate for creating high performance, secured, reliable, and scalable application using architectural best practices. With strong background in Computer Science and Business, I am fascinated with creative ideas and innovative knowledge that bring great values to community and businesses.
-   
-	
 **SKILLS**
 - TypeScript, C/C++, C#, Python, Java, HTML5, CSS, SQL. 
 - React, Node, GraphQL, NextJS, Django, ASP.NET, AWS. 
