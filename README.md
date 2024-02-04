@@ -5,10 +5,10 @@ I love C/C++ programming because it removes abstraction and improves my understa
 Recently, I've been working on my graduate capstone project using C#, ASP.NET, and Blazor deployed to Azure App Service. I'm interested in learning DevOps, so I have built a CI/CD pipeline for the project that streamline deployments with different stages. I have setup code coverage report generated and posted directly to the pull request, a little nudge for my team to get into the groove of thorough testing. It's not just about code; it's about making the whole process sing!
 
 **SKILLS**
-- TypeScript, C/C++, C#, Python, Java, HTML5, CSS, SQL. 
-- React, Node, GraphQL, NextJS, Django, ASP.NET, AWS. 
+- Java, TypeScript, C/C++, C#, HTML5, CSS, SQL, Python. 
+- Spring, React, NextJS, ASP.NET, GraphQL, Django, AWS. 
 - Web Development, Cloud Services, Object-Oriented Design, Databases. 
-- Agile Project Management, Scrum, Kanban. 
+- Web Development, OOD, Software Testing & Debugging, DevOps, Agile Project Management, Scrum, Kanban. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducmvo&layout=compact&custom_title=LANGUAGES&title_color=740627&text_color=c8d0d8&icon_color=24292e&bg_color=0d1118&hide_progress=true&hide_border=true" />
 
