@@ -1,3 +1,7 @@
+As a Master of Science in Computer Science student at Seattle University, I am passionate about developing innovative and scalable solutions for complex problems using cutting-edge technologies and frameworks. I have a strong background in web development, cloud services, databases, and software engineering, with proficiency in Java, TypeScript, C/C++, C#, Python, HTML5, CSS, and SQL.
+
+I recently completed a four-month internship as a Software Engineer at Amazon, where I designed and implemented a new module for the current high-availability systems that enable Amazon to automatically manage millions of ads globally on search engines like Google and Bing. I applied my expertise in parallel and distributed computing, as well as my skills in Spring, React, .NET, Node, NextJS, Django, and AWS, to deliver a robust and efficient solution that improved the performance and reliability of the system. I also collaborated with senior engineers, product managers, and stakeholders, following agile software development methodologies and best practices.
+
 **SKILLS**
 - TypeScript, C/C++, C#, Python, Java, HTML5, CSS, SQL. 
 - React, Node, GraphQL, NextJS, Django, ASP.NET, AWS. 
