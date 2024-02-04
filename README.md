@@ -2,7 +2,7 @@ Whenever I encounter an issue, I prefer to dive deep to find the root cause rath
 
 I love C/C++ programming because it removes abstraction and improves my understanding of how software works with hardware. I enjoy coding in Java for backend development and Typescript for frontend development. However, I'm happy to use any statically or strongly typed language, mainly because I like to write code with readability and maintainability in mind. 
 
-Recently, I've been working on my graduate capstone project using C#, ASP.NET, and Blazor deployed to Azure App Service. I'm interested in learning DevOps, so I have built a CI/CD pipeline for the project that streamline deployments with different stages. I have setup code coverage report generated and posted directly to the pull request, a little nudge for my team to get into the groove of thorough testing. It's not just about code; it's about making the whole process sing!
+Recently, I've been working on my graduate capstone project using C#, ASP.NET, and Blazor deployed to Azure App Service. I'm interested in DevOps, so I have built a CI/CD pipeline for the project that streamline deployments with different stages to Azure. I have setup code coverage report generated and posted directly to the pull request, a little nudge for my team to get into the groove of thorough testing. It's not just about code; it's about making the whole process sing!
 
 **SKILLS**
 - Java, TypeScript, C/C++, C#, HTML5, CSS, SQL, Python. 
