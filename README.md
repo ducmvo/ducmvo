@@ -1,6 +1,8 @@
-As a Master of Science in Computer Science student at Seattle University, I am passionate about developing innovative and scalable solutions for complex problems using cutting-edge technologies and frameworks. I have a strong background in web development, cloud services, databases, and software engineering, with proficiency in Java, TypeScript, C/C++, C#, Python, HTML5, CSS, and SQL.
+Whenever I encounter an issue, I prefer to dive deep to find the root cause rather than coming up with workaround solutions. 
 
-I recently completed a three-month internship as a Software Engineer at Amazon, where I designed and implemented a new module for the current high-availability systems that enable Amazon to automatically manage millions of ads globally on search engines like Google and Bing. I applied my expertise in parallel and distributed computing, as well as my skills in Spring, React, .NET, Node, NextJS, and AWS, to deliver a robust and efficient solution that improved the performance and reliability of the system. I also collaborated with senior engineers, product managers, and stakeholders, following agile software development methodologies and best practices.
+I love C/C++ programming because it removes abstraction and improves my understanding of how software works with hardware. I enjoy coding in Java for backend development and Typescript for frontend development. However, I'm happy to use any statically or strongly typed language, mainly because I like to write code with readability and maintainability in mind. 
+
+Recently, I've been working on my graduate capstone project using C#, ASP.NET, and Blazor deployed to Azure App Service. I'm interested in learning DevOps, so I have built a CI/CD pipeline for the project that streamline deployments with different stages. I have setup code coverage report generated and posted directly to the pull request, a little nudge for everyone to get into the groove of thorough testing. It's not just about code; it's about making the whole process sing!
 
 **SKILLS**
 - TypeScript, C/C++, C#, Python, Java, HTML5, CSS, SQL. 
