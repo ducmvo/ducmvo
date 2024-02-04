@@ -16,7 +16,7 @@ Recently, I've been working on my graduate capstone project using C#, ASP.NET, a
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducmvo&layout=compact&custom_title=LANGUAGES&title_color=740627&text_color=c8d0d8&icon_color=24292e&bg_color=0d1118&hide_progress=true&hide_border=true" /> -->
 
 ___
-[<img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" width="30"/>](mailto:dvo4@seattleu.com)  [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/>](https://github.com/ducmvo/)  [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ducmvo/)  [<img src="https://www.svgrepo.com/show/266221/resume-portfolio.svg" height="25"/>](https://ducmvo.github.io/portfolio/)
+[<img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" width="30"/>](mailto:dvo4@seattleu.edu)  [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/>](https://github.com/ducmvo/)  [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ducmvo/)  [<img src="https://www.svgrepo.com/show/266221/resume-portfolio.svg" height="25"/>](https://ducmvo.github.io/portfolio/)
 
 <!--
 **ducmvo/ducmvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
